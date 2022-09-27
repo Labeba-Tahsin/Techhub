@@ -1,0 +1,40 @@
+﻿@using Sitecore.Data.Items
+@model Techhub.Models.Listing
+
+<!-- Section latest-news starts -->
+<section class="latest-news section-gap" id="cynic-news" data-scroll-offset="75">
+    <div class="container">
+        
+        <h2 class="section-title text-center">@Html.Sitecore().Field("__Display Name", Model.ParentItem)</h2>
+
+        <div class="grid-wrapper">
+            <div class="row justify-content-center">
+                @foreach (var post in Model.Posts)
+                {
+                    <div class="col-lg-4 col-md-6">
+                        <a href="@post.Url" class="img-card news-card">
+                            <figure class="image">
+                                @Html.Sitecore().Field("Primary Image", post.Item, new { DisableWebEdit = true, mw="400", mh="236"})
+                            </figure>
+                            <div class="content ">
+                                <h4>@Html.Sitecore().Field("Page Title", post.Item, new { DisableWebEdit = true })
+                                </h4>
+
+                            </div>
+
+                        </a>
+                        <!-- End of .img-card -->
+                    </div>
+                }
+
+
+                    <!-- End of .col-lg-4 -->
+                </div>
+            <!-- End of .row -->
+
+        </div>
+        <!-- End of .grid-wrapper -->
+    </div>
+    <!-- End of .container -->
+</section>
+<!-- End of .latest-news -->

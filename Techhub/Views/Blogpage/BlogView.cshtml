@@ -1,0 +1,30 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+
+<!-- post-details starts -->
+<div class="post-details ">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg">
+                <article class="article-details">
+                    <figure>
+                        @Html.Sitecore().Field("Primary Image", new { mh = "600" })
+
+                    </figure>
+
+                    <ul class="post-metas ">
+                        <li> <a href="#" class=""><i class="far fa-user"></i>@Html.Sitecore().Field("Author")</a></li>
+                        <li> <a href="#" class=""><i class="far fa-calendar-alt"></i>@Html.Sitecore().Field("Published Date")</a></li>
+                        <li> <a href="#" class=""><i class="far fa-bezier-curve"></i>@Html.Sitecore().Field("Category")</a></li>
+                    </ul>
+
+                    <h3>@Html.Sitecore().Field("Page Title")</h3>
+                    <p>@Html.Sitecore().Field("Page Description")</p>
+
+                </article>
+            </div>
+        </div>
+        <!-- End of .row -->
+    </div>
+    <!-- End of .container -->
+</div>

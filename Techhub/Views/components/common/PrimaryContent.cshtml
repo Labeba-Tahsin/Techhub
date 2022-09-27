@@ -1,0 +1,10 @@
+﻿@using Sitecore.Mvc
+@using Sitecore.Mvc.Presentation
+
+
+<div>
+    <h4>@Html.Sitecore().Field("Title Text")</h4>
+    <p>@Html.Sitecore().Field("Description Text")</p>
+    @Html.Sitecore().Field("General Button", new {@class= "mt-4 btn btn-lg btn-primary text-white" })
+
+</div>
