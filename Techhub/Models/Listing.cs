@@ -8,7 +8,7 @@ namespace Techhub.Models
 {
     public class Listing
     {
-        public Item ParentItem { get; set; }
+        public Item ParentItem { get; set; } 
         public IEnumerable<NavItem> Posts { get; set; } = Enumerable.Empty<NavItem>();
     }
 }
