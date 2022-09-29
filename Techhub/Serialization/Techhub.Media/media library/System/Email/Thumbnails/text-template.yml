@@ -1,0 +1,40 @@
+﻿---
+ID: "e9c3ba8b-cd66-48e5-b170-f679dbdb0820"
+Parent: "6556eeb7-f3b5-42d3-a3b0-f2adb913b292"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Email/Thumbnails/text-template"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "~/media/E9C3BA8BCD6648E5B170F679DBDB0820.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 64
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "a6d1469a-e1e9-4f35-8f72-2f88d7dd45e5"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAv5JREFUeNrsW79u00AY9129tTs8AnsRbKhdCBVqeIgOiDdgoHGtJjsbA4gHYEKlQBFCzcBQCqrEhsQDgNiZUO/4uYnBuZzPJ1/u7NTfJ32x7LuLfb/v9/2zEialjLosPOq4EABdByCumpCmaRuCxG/oN+hr6BPG2M/sYh6/cK5dlI0nSXIpGLAKXYcOoN+hO112gTVY9hmOSadjAEDYw2GvCQBYCMUGr+D4suJZElcQ2syAXwDhvsW8xMUdYl9P/2Xl5oQucjZCSzaJ3NfPP1mBoEtM6oYzd5hmgrRxAPKN284rA6IstRUovxAQYp+bf/Xojnbe9vBoZo0lG7yAEIe0el02+ATBWxAss37VWA0mpCUpcqdRAAJKGQiPcbjqHQAd/W0s7MACqVFdGlyDPlgqBrjGEo3cDQ6AzrL90REi/3ufsaBMrrWEAWCpaKSrXvUKgE3e74/eYvM8OhzctmKMxg0W2Ts0wAAxucX2/ruoD/UYC2x7Bz+VYJk/H+z2rNYWq8N/XU5S3eOkaVrVOzTTDLlIjdLY1Dv4AaBIU531i5bRUHoDXeKx4umb+BwX5xe/w4YNrWqHTb6MzSe6a2iVxwvoEcIGQZ317w2NwW5jqrbXvUptALIXHerLjv91uDCtS+qM+RJnF5hPbcJEf9XKx6iRVuD/t5TxcesZsC5ODGOndhbmciA5H1WxwEOPsBgGZCDoo/OWLq+r1s+ag4/TSvkULLhRhwXZ/ZVaoGWVYKn1xSDvEWTEhk3FglAAKNZnb/BxkvcI0EOcf20iI8QNWF8yjpxf6BEurkk5koy9MNUFywqAak0mhfg8lzrnS9kgGYEH9/1Aa9sCgKsve48FcUjrg+VbMZ8JdnPy5/ziPd7TULGAB7T+B2hWHPwwKWqL56gJzkKxgIfzfbFv6hGKE5lgD0PFAm8ucLDb26y3spdXiSwKIPQzOQKAACAACAACgAAgAAgAAoAA6KY4N0Mur6SJAQTAcrqAJAYQAATApRFG/x0mFyAAOi1/BRgALEYo7Im7oB0AAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 860
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 64 x 64
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 64
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20121116T135312Z

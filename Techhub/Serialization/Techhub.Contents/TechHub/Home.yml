@@ -1,0 +1,90 @@
+﻿---
+ID: "655af4eb-f55b-4366-8aa0-33ba624a9dba"
+Parent: "bffcf155-3ee1-4a6d-a5a8-daddf216943d"
+Template: "baedb241-b347-4f74-90de-cd15ea9aaa07"
+Path: /sitecore/content/TechHub/Home
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{5262DBE7-8923-4C44-823D-B5B027CA6714}">
+        <r
+          id="{FC564083-6BA0-4284-8EB9-615E78A892BA}"
+          ph="main"
+          uid="{DEFBE015-F561-4376-A774-BBBFA2C692F5}" />
+        <r
+          id="{FC564083-6BA0-4284-8EB9-615E78A892BA}"
+          ph="main"
+          uid="{BC80BFDC-BEC4-4E4B-A4C1-54471B31BAC6}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3C3E62CB-AC57-4107-B5A8-12771C69F0ED}"
+              p:before="*"
+              s:id="{D7D4C997-5E6B-4D16-9932-8C0F334D8E85}"
+              s:ph="/main/block-{BC80BFDC-BEC4-4E4B-A4C1-54471B31BAC6}-0/col-right-{609B4FEC-6DD4-438B-A169-B1B1C7FC5338}-0" />
+            <r
+              uid="{303E84CC-34BD-4E90-8483-D3CAE5831F28}"
+              p:after="r[@uid='{3C3E62CB-AC57-4107-B5A8-12771C69F0ED}']"
+              s:id="{574E9EBA-6F22-4822-8669-9F9F220DB839}"
+              s:ph="/main/block-{BC80BFDC-BEC4-4E4B-A4C1-54471B31BAC6}-0/col-left-{609B4FEC-6DD4-438B-A169-B1B1C7FC5338}-0" />
+            <r
+              uid="{609B4FEC-6DD4-438B-A169-B1B1C7FC5338}"
+              p:after="r[@uid='{303E84CC-34BD-4E90-8483-D3CAE5831F28}']"
+              s:id="{DC878E96-1F17-400F-AEA2-2D03A696AE1C}"
+              s:ph="/main/block-{BC80BFDC-BEC4-4E4B-A4C1-54471B31BAC6}-0" />
+            <r
+              uid="{2F5F55CF-5D76-4EE3-87C6-03267E860D42}"
+              p:after="r[@uid='{609B4FEC-6DD4-438B-A169-B1B1C7FC5338}']"
+              s:id="{798C08D0-6CDF-48A3-B897-FE98297E874E}"
+              s:ph="/main/block-{DEFBE015-F561-4376-A774-BBBFA2C692F5}-0/col-center-{C4EF6ECB-1BD2-4FD8-9705-C1A48B9120F4}-0" />
+            <r
+              uid="{C4EF6ECB-1BD2-4FD8-9705-C1A48B9120F4}"
+              p:after="r[@uid='{2F5F55CF-5D76-4EE3-87C6-03267E860D42}']"
+              s:id="{AA292D8A-01C9-47B9-ADBA-145B6BB0B55C}"
+              s:ph="/main/block-{DEFBE015-F561-4376-A774-BBBFA2C692F5}-0" />
+          </d>
+        </r>
+    - ID: "0c88f6ac-faa3-4ca4-b7a6-4f25aec4df69"
+      Hint: Description Text
+      Value: "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source."
+    - ID: "0e796468-7f5e-4609-9b9c-fd365c95732c"
+      Hint: General Button
+      Value: |
+        <link text="View Blogs" anchor="" linktype="internal" class="" title=""  querystring="" id="{126AF09E-6ADD-4DEC-BDB9-454101E2578C}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220923T072251Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "956018bb-a76a-49a2-9c45-6e03b80bfee9"
+      Hint: Title Text
+      Value: This is primary text
+    - ID: "cf64e08e-5fe5-450d-9efa-b6dca8d3a37f"
+      Hint: Banner Image
+      Value: |
+        <image mediaid="{56FD68A3-91C2-4FFD-8BEA-C2254BE5B6AB}" ></image>
+    - ID: "dac3f48e-bb9e-42fa-9368-fd3690355112"
+      Hint: Primary Image
+      Value: |
+        <image mediaid="{6263A167-F723-4BE8-9EB7-2B53272A5FBE}" ></image>

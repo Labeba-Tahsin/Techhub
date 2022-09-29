@@ -1,0 +1,40 @@
+﻿---
+ID: "d3f5f08a-576b-4ee3-b52a-00fa85b033ad"
+Parent: "6556eeb7-f3b5-42d3-a3b0-f2adb913b292"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/System/Email/Thumbnails/one_column
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "~/media/D3F5F08A576B4EE3B52A00FA85B033AD.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 64
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "7f620b72-7ec8-4888-9c4b-c55a723d54bc"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAZpJREFUeNrsmzFqw0AQRb1BnV0HH8F9juEmd0gRcgnv6gbpQsA5Ru4SSJsipE+9/oIQsBHyShqtZjV/YMDYsi09/fmzs8YuxriyHDcr40EABGA8qmsH1HWtwSV/kR/Id+RLCOE79Y3XTL4UBayRd8gD8hM35cFyCWxwV4+A4E17ACCEJib3gMvAd7ocF+i9v3XOveLhfddhDYMxINQqABL/wV1+TGE1phxUl0ADoe3ptnIYCqE4D/iTuxiE0QCaPtsntUEotgtIQagE6jT2PHGxThPCfyf0LRC+0EneFj8LdCjhGS9tJ1fADBecqrgN8ulSHdamwf3kCsi1MhwYO+v7AeviPSBVYYmzw3IV0GN2EPeAmOsup0DoOxhWSmUfcwFUUQJTzAvmPGBoqFgHwMFnA8AfRjScBPr3WVIBhXmAmnUAFcB1ABWQ3wPQw8Xrt+szpbsEFSDRw2mCXAdkHZUdFUAABLCs/QAqgAAIgOuAuTyIJUAA9IC8+wHapkcqgPsBNEECoAeUtPKjAgiAAETD8c/TLAHbcRJgAPsA2KaEFoVMAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 504
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 64 x 64
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 64
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150427T075200Z

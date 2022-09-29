@@ -1,0 +1,70 @@
+﻿---
+ID: "b0bdbbea-1968-4511-bb12-1645f8fb0104"
+Parent: "126af09e-6add-4dec-bdb9-454101e2578c"
+Template: "75fe4441-70ad-4fb9-abb4-78b474dd0952"
+Path: /sitecore/content/TechHub/Home/BlogPosts/Why Asia is submerging
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{5262DBE7-8923-4C44-823D-B5B027CA6714}">
+        <r
+          id="{FC564083-6BA0-4284-8EB9-615E78A892BA}"
+          ph="main"
+          uid="{D9D50805-BD35-4B2F-ABB8-7B1FD9A6E6BA}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1115DD71-D808-48FF-A67F-566B7E59BD18}"
+              p:before="*"
+              s:id="{E94DC82F-4191-486B-A6BE-EDAA5A6359D6}"
+              s:ph="/main/block-{D9D50805-BD35-4B2F-ABB8-7B1FD9A6E6BA}-0" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220927T064639Z
+    - ID: "3bebbd88-073b-4855-94ae-8e8a4e4e8568"
+      Hint: Author
+      Value: Labeba Tahsin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "655274f5-24ce-4151-9b1c-69106495ea95"
+      Hint: Published Date
+      Value: 20220921T070000Z
+    - ID: "8796a7d8-1cd0-4a93-ab31-cea1f7e13e6a"
+      Hint: Page Description
+      Value: |
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+        
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    - ID: "b70705cb-f872-4b29-ba3e-ba1ea9a6697f"
+      Hint: Primary Image
+      Value: |
+        <image mediaid="{93CB1FC6-5EC7-4EAE-82DE-27C6E057EF03}" ></image>
+    - ID: "c662c6a1-25de-458b-930e-986155ab50fb"
+      Hint: Page Title
+      Value: Why Asia is submerging
+    - ID: "c92c3084-a97c-4f7b-8dc0-d0ff3f8fcf36"
+      Hint: Category
+      Value: Design

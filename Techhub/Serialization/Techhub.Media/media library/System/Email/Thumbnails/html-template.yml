@@ -1,0 +1,40 @@
+﻿---
+ID: "6bcaaecd-3ebd-4633-8902-7dbbde16ddb6"
+Parent: "6556eeb7-f3b5-42d3-a3b0-f2adb913b292"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/System/Email/Thumbnails/html-template"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "~/media/6BCAAECD3EBD463389027DBBDE16DDB6.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 64
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "d6b6f8b4-7bf4-432b-a0b5-2f1e37689bbf"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAApVJREFUeNrsm79LAzEUx73QrQU3EfwHujvof+Dg4lBwcesg/g/lfpT+AW4iOLoIHVwc/A/0Pyg4C+LWwa30fA9SKMddLneX95o0eRB69JLmvp+8vLykbZTn+YHPJg48twDAdwC9ugpZltkQJP6gLKC8QXlI0/RHt2FdjHPFA/pQTqHEUL5gUMY+T4EBjOoTQEi8jgEAIUUjjwFFgz4jDoFJkhxFUfQIl1eqasigCwhrPQBc/BdG+VaHVZfpYPUUQAhlb5dNh7YQnIsB0t2NQXAyCJqE4OwqYAqC06lwDYTx3gOogXAPt46N5wEWCNbdmwyg3OEy6fNu8NL37fDQdwB952OA7t5Dc++wvx7QYO/ADwBGcQil16B+D9sY2jvsFsB0Oj2Dlw8YnWcdCFgH62Ib2ZbUBLX49Xr9DpeHMD+v6yBsxGNdbINtqSEIDvGb9ySEyiCF96T4jZFDEFziJQDM0eeKOTwvSWtJIQhO8bBUZS1zezIIwibxu4AgbBPPDUFQikcBbcRzQugMYDabnVSJN3Fur4KAfVudB7hgnQFMJpNvIcQFXC6L+xODHlA81Fhin9i3FR4Qx/FnFYQuX1qoxGOfVq0CVRDantdziDceA0xB4BJPEgS7QuAUT7YKqCBAXjBSnOqMOMWTLoNlEADAC2SGr1Vt8B7W4RJPngdsQ5Dib8DDVwr3X2EdCYFcPEsiJAWc14kvQsA21OLRjJ0Kq36NBYIWDZdABLWo+Uy7PED1QG1+jssh3vgUMAWBSzxJDOgKgVM8WRBsC4FbPOkqYPKBqcSTL4NlD64S07S+E3nAtgAdMU3rW5MHmHRhDuFsHmC7BQABQADgt7X5v0AePCAACAD2xqLw3+EwBQIAr+1fgAEA1Fm11YC64ioAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 755
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 64 x 64
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 64
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20121116T135311Z

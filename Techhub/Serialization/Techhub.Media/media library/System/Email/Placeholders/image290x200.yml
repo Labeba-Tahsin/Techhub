@@ -1,0 +1,47 @@
+﻿---
+ID: "609021bb-dcaf-4f68-a72f-d92e471d1520"
+Parent: "55822fee-e479-4ac9-b10e-746b2fb8a50f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/System/Email/Placeholders/image290x200
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/609021BBDCAF4F68A72FD92E471D1520.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 290
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "478b34e5-ff0d-4b0c-93c5-13b26731b92c"
+  Value: iVBORw0KGgoAAAANSUhEUgAAASIAAADIBAMAAAC+OPHVAAAAG1BMVEUjIyP///9aWlqRkZGsrKzj4+PIyMg+Pj51dXWR+PMuAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC+0lEQVR4nO3WvVPbMBgGcMVxbI+4kJDRpumxxly5MsZXaFdoGuho9w66Jr0GGGOu9PpnV68+bMmEDkS5dnh+A9jOY+uNZCliDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOBfe336PhEH4dvTI3npXl96ynsaCn/qS054ef/mYjCnB5eDm/grXevGl9f99SWN+EfxNzuU8Sd8cldRb8qrqa74UfqFseiC2ig/Mvb4am189o6H+nMzFOzN1X1ueOLPgHfRjNpZ7vNvv8v06ROi4bQwQ9mY7rtyVpGUz5kvOsXbY2xRiGbHz6b9fSMUDsR9u44rSlesU8ja+JdO6CDYeTbtDY1QVw5v6biixZiKItWKXYuDaP2LRELeIXUoOJf3JW4r4r2fJrq2vbpZ7o0s9NFskIaoDnUm+j6nqkR/yc6ExoRcir+BOIsGZpr3TBNSfdsr3FaUM/3kRaGHS44LK+l6ZbXn77AmVCXiQA2eKyHNsIk4rNoVUSfZXUTRbVdE01k9siyifXkxVx/yTrK7iNaKJlTJdct/fmq+BK09kXhXo3jSbVUUDFtdRC92E8q2UVE4Ew+n2ZJVEz0gZ/rjMius+PK8WRvO9Kj5TkctEF/Y7x8dHA8749Z7xD+2u4iVc7bt96iUDx3F8XS+WNmzn6vilZkOqJjtzn5/aJykiVoa1RpIE+3WDLCcSmhCamlUC6UbogntmDE5SLpNmmilkVD11yH1e+hyzQ6sHvisJ5meTTTRzIiqrg6pSZat3by8SFgmxhm9sZVos6deVbEWNZ10q17pOhTJamfOCmJL6zd+ydvvid1XJouQa1HdSaHeLDYhsbXrWh29EXuv6NGZR9tuvSrSfpHV07HZKzahlLbdrVV9E+nub8Ib/PBwd5+LBqvp4fdcNRFZ/7z4hNIPZijqH92NWkvWJqpY4I/+xf9NxbUw10dtkUwPrNCPOO473h0p4cGhPmyO/qIOeQfuJhoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMD/5A97ens0eWbhOQAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 880
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/jpeg
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: jpg
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 290 x 200
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T123614Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Placeholder image

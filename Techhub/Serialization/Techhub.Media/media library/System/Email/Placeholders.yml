@@ -1,0 +1,14 @@
+﻿---
+ID: "55822fee-e479-4ac9-b10e-746b2fb8a50f"
+Parent: "dc9571ac-85b8-4a80-81b4-e537850d1ca3"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/System/Email/Placeholders
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T121756Z

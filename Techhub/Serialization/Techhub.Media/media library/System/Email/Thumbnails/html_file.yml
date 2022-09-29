@@ -1,0 +1,40 @@
+﻿---
+ID: "3295374c-0195-4093-bd76-5fa609333769"
+Parent: "6556eeb7-f3b5-42d3-a3b0-f2adb913b292"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/System/Email/Thumbnails/html_file
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "~/media/3295374C01954093BD765FA609333769.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 64
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "bcb3fa2f-124d-47e4-9f26-a8e0aecd2b55"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA5BJREFUeNrsm89r1EAUx5NhT22hJ0WwZ1mkF+lh24tQFII/sD0UvHjrQfwThCXJbvfkyZsIHr0IPejByoreW6T0KvaqIqJgD95K4ns2wdmYzEySN8lssgODk8388PvJe29+NLHDMLTanJjV8tR6AB3+YjAYmOAPvyF/hPwa8hPf97+pNiziziZawDzkFcgu5GN4KNttdoEFeKrPAILX6hgAEHxM2mNAMsGYdhUCPc87b9v2UyhuiqohA2oQRlgAmPh3eMr3VVhRu4MxLoAQ0n5OcwdKCEbHgMjctUIwPgjqhjAVs4BOCFOzFJZA2G48AAmEx3DrAvk6wADBqov7BcgPcJps827wVtu3w922A5if+higuvdQ3Ds01wJy7B2qBwBPsQu5k6N+B9sQ7R3qBTAcDnvwzz48necqELAO1sU2UdvKE6MUHwTBGIqL4J93ZRBi8VgX22DbOiAwavHxbxGEzCCF9yLxcaoFAtMhPgKAa/RdgQ/vpixrK4fAdImHqWpQcG1fKQRWl3hTILA6xZsAgVGJRwFFxNcNIReA0Wh0MUs8xXG1CAKObfQ6YFpTLgD9fv8LY8yB4klyf0JoAclDjRMcE8c2wgJc1z3IglDmgFIkHscUND2EfD3K1bhAFoSip7QlxOO9ax/Y2q9Dtvrwzs743e2dtyswG1kquVQMoIJQQjwm54itdZkVvkcQmLG8MRz3KgmCZSGUFG+h+MAKk7PSIv6mCqH0LCCCAOuCLcGpzlYZ8SgwRXxuCCTTYBoEAPAC/OxlVhu8h3U0iM8FgWwdwEOIxN8DCz8VmP8p1okgUItXhkC6EIoErMrEJyFgGw3ilSDY/JtVybfEsk5pRW9jxdNL3pTWJ99XQfGT8cWynVeuc8CPWcgCRCKLvKoma0MgPtMSCrsAFYSKxGdCKBUDykKQudKGv3eZUPwkBOibJAgWhaASRwLGHhGL/wfhrG+aWaBo4FPoa13jTniddBpMgyACo1h/TiOAOfJ1AC9AxSry1k9OaxR1yE+E+K2mjvr8nC4XZzsyCNN4JPbfgiYrYR0ZBNZU8aoQWJPFq0BgTRcvg2A6gB8U4jMgYN/S7wXq/Ibo3Kfg51UsXLKOv17x/X0o9mQ7VRUIN/y95fja5Bclj0A4f71E1fEb/+bnvwUvNBrAUhWDzL4b5C88z7NN+s9RbrJmFjAD0EAA4dnfBnPfm3Cztn8+/0eAAQDaymDsVlfsUwAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1006
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 64 x 64
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 64
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20150427T075201Z

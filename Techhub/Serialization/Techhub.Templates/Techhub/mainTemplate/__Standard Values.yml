@@ -1,0 +1,21 @@
+﻿---
+ID: "91d185b1-6b85-47aa-9c4e-5940ce5a0ca4"
+Parent: "baedb241-b347-4f74-90de-cd15ea9aaa07"
+Template: "baedb241-b347-4f74-90de-cd15ea9aaa07"
+Path: /sitecore/templates/Project/Techhub/mainTemplate/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220923T100914Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "cf64e08e-5fe5-450d-9efa-b6dca8d3a37f"
+      Hint: Banner Image
+      Value: This is primary content text

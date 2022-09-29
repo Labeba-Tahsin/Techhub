@@ -1,0 +1,18 @@
+﻿---
+ID: "574e9eba-6f22-4822-8669-9f9f220db839"
+Parent: "9a87b66c-2884-4888-84cc-ee0ec9bcf0df"
+Template: "99f8905d-4a87-4eb8-9f8b-a9bebfb3add6"
+Path: /sitecore/layout/Renderings/Project/TechHub/components/common/PrimaryContent
+DB: master
+SharedFields:
+- ID: "51b435bc-f7b9-478a-9c51-52916af96ff5"
+  Hint: Path
+  Value: /Views/components/common/PrimaryContent.cshtml
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220926T061131Z

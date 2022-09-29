@@ -1,0 +1,60 @@
+﻿---
+ID: "126af09e-6add-4dec-bdb9-454101e2578c"
+Parent: "655af4eb-f55b-4366-8aa0-33ba624a9dba"
+Template: "baedb241-b347-4f74-90de-cd15ea9aaa07"
+Path: /sitecore/content/TechHub/Home/BlogPosts
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{75FE4441-70AD-4FB9-ABB4-78B474DD0952}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{5262DBE7-8923-4C44-823D-B5B027CA6714}">
+        <r
+          id="{FC564083-6BA0-4284-8EB9-615E78A892BA}"
+          ph="main"
+          uid="{90093DAF-461B-4A89-9748-E57078EBE0DF}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Blog Posts
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{20336B27-F234-4EDB-B359-73C6D4550157}"
+              p:before="*"
+              s:ds="{126AF09E-6ADD-4DEC-BDB9-454101E2578C}"
+              s:id="{90F5BC7E-B213-4AF6-8864-FA349F3FBDF4}"
+              s:par=""
+              s:ph="/main/block-{90093DAF-461B-4A89-9748-E57078EBE0DF}-0" />
+          </d>
+        </r>
+    - ID: "0c88f6ac-faa3-4ca4-b7a6-4f25aec4df69"
+      Hint: Description Text
+      Value: bla bla
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220926T094955Z
+    - ID: "956018bb-a76a-49a2-9c45-6e03b80bfee9"
+      Hint: Title Text
+      Value: Blog Posts

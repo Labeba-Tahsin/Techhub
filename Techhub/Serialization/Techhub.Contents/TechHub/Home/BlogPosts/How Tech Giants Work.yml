@@ -1,0 +1,71 @@
+﻿---
+ID: "a2f0a091-1667-454e-a81d-95c1450971ff"
+Parent: "126af09e-6add-4dec-bdb9-454101e2578c"
+Template: "75fe4441-70ad-4fb9-abb4-78b474dd0952"
+Path: /sitecore/content/TechHub/Home/BlogPosts/How Tech Giants Work
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{5262DBE7-8923-4C44-823D-B5B027CA6714}">
+        <r
+          id="{FC564083-6BA0-4284-8EB9-615E78A892BA}"
+          ph=""
+          uid="{840971EA-2095-43F4-98AD-2321A4335211}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{518E17EA-0732-4BB9-A91E-6EF294B78304}"
+              p:before="*"
+              s:id="{E94DC82F-4191-486B-A6BE-EDAA5A6359D6}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220926T095418Z
+    - ID: "3bebbd88-073b-4855-94ae-8e8a4e4e8568"
+      Hint: Author
+      Value: Labeba Tahsin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "655274f5-24ce-4151-9b1c-69106495ea95"
+      Hint: Published Date
+      Value: 20220913T070000Z
+    - ID: "8796a7d8-1cd0-4a93-ab31-cea1f7e13e6a"
+      Hint: Page Description
+      Value: |
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+        
+        
+        "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+    - ID: "b70705cb-f872-4b29-ba3e-ba1ea9a6697f"
+      Hint: Primary Image
+      Value: |
+        <image mediaid="{6263A167-F723-4BE8-9EB7-2B53272A5FBE}" ></image>
+    - ID: "c662c6a1-25de-458b-930e-986155ab50fb"
+      Hint: Page Title
+      Value: How Tech Giants Work
+    - ID: "c92c3084-a97c-4f7b-8dc0-d0ff3f8fcf36"
+      Hint: Category
+      Value: Design

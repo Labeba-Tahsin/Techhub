@@ -1,0 +1,47 @@
+﻿---
+ID: "12796fe8-80f3-4a9a-a0a4-f630ec70713d"
+Parent: "55822fee-e479-4ac9-b10e-746b2fb8a50f"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/System/Email/Placeholders/image190x100
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/12796FE880F34A9AA0A4F630EC70713D.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 190
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "871f1435-7825-4da7-9071-7caa56a66df5"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAL4AAABkBAMAAADK/5fnAAAAG1BMVEUjIyP///8+Pj5aWlrj4+ORkZF1dXWsrKzIyMhvSjDVAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABi0lEQVRoge2UTU/CQBCGx62UHo2/oEIPHnvAxCPhS46NaTk3pEaPHFQ4ooDys51Zils+6xJuvk/SacMbnh1mtxABAAAAAAAAAAAAHKAu5W7gc3WS4XaqwqNxOU6HS7B46vJtPoijrbjR5OJ1D8XlxBk32WNHRNURqcVmWumJf0x0uzcupzptsGXEa1wRP9HNZjxx2C/X/ricN/maJ0P+ooSrl3Lx+VJ69UjclWgztsEX/6UIE5pR7pIpBKFeRPx6+UJsh/hFMKYWV3dKei9kSwTx6+VfTGztr0pXD3QtPi1YUJAa/4X47wuxrd/h1ipFv/eYt38eP8XD+jgpCj7Ss/qdyXf4Tm1+ckfymeqs91HPX7bnuRBb+4VPPoL5VvD01y+SPj8pyUE28Sl+1eQW81758HiR8eum2yY+yc9NBj5Rtmp/9Q7kfsXb7zZNbO/3SfF/jNsiR4asJ+GFv37K+C0MTWzvf13OZR7Zsr/9+7Xf7c9n++O/UvOLtx1U7WgMAAAAAAAAAAD8F34A/2BEOtX7iSUAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 512
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/jpeg
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: jpg
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 190 x 100
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190731T122444Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Placeholder image
